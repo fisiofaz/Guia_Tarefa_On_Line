@@ -3,7 +3,7 @@
 
 ![Niquel](https://i.imgur.com/anq6VWH.png)
 
-## Índice
+### Índice
 
 - [Sobre](#sobre)
   - [Tecnologias](#tecnologias)
