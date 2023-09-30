@@ -1,6 +1,8 @@
 # Guia de Tarefa
 
-[img]https://i.imgur.com/anq6VWH.png[/img]
+
+![Niquel](https://i.imgur.com/anq6VWH.png)
+
 
 Um projeto desenvolvido para aprimorar meu modelula de programar
 
@@ -14,3 +16,5 @@ Um projeto desenvolvido para aprimorar meu modelula de programar
 ## Dsenvovido por:
 
 Fábio André Zatta - @fabio_zatta
+
+
