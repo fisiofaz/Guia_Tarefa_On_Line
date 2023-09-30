@@ -1,7 +1,7 @@
 # Guia de Tarefa
 
 
-![Niquel](https://i.imgur.com/anq6VWH.png)
+![Tarefa](https://i.imgur.com/anq6VWH.png)
 
 ### Índice
 
@@ -29,5 +29,3 @@ Um projeto desenvolvido para aprimorar meu modelula de programar
 ### Desenvolvedor
 
 Fábio André Zatta - @fabio_zatta
-
-
