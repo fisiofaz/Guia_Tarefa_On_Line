@@ -1,0 +1,125 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+   --color-primary: #4e0070;
+  --color-secondary: #4c79d3;
+  --color-bg: #fff;
+  --color-gd: #5eb9c4;
+  --color-bd: #bebcbc;
+  --color-tx: #fff;
+
+}
+
+
+#login {
+  background: linear-gradient(120deg, var(--color-gd) 44.9%, var(--color-bg) 45%) no-repeat fixed
+}
+
+#app {
+  background: linear-gradient(120deg, var(--color-bg) 44.9%, var(--color-gd)) no-repeat fixed
+}
+
+header {
+  border-bottom: 1px solid var(--color-bd);
+  padding: 5px;
+  background: var(--color-bg);
+}
+
+.icon-detail{
+  font-size: 50px;
+  margin-right: 10px;
+  vertical-align: middle;    
+}
+
+.tex-login {
+  color: var(--color-tx);
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.coins {
+  position: absolute;
+  bottom: 100px;
+}
+
+.button-login {
+  border-radius: 10px;
+  background-color: var(--color-primary);
+  color: var(--color-tx);
+  width: 50%;
+  margin: 0 25%;
+}
+
+.button-float {
+  border-radius: 100%;
+  height: 60px; 
+  width: 60px;
+  position: fixed;
+  bottom: 1rem;
+  right: 2rem;
+  font-size: 36px;
+  background-color: var(--color-primary);
+  color: var(--color-tx);
+  padding: 0 !important;
+  border: 2px solid var(--color-primary);
+}
+
+.button-float:hover{
+  border: 2px solid var(--color-primary);
+  background-color: var(--color-bg);
+  color: var(--color-secondary);
+}
+
+.button-cancel {
+  border-radius: 10px;
+  color: var(--color-tx);
+}
+
+.button-default{
+  border-radius: 10px;
+  background-color: var(--color-primary);
+  color: var(--color-tx);  
+}
+
+.button-login:hover,.button-default:hover  {
+  background: var(--color-secondary);
+  color: var(--color-tx);
+}
+
+span {
+  color: var(--color-primary);
+  cursor: pointer;
+}
+
+span:hover{
+  color: var(--color-secondary);
+}
+
+.info {
+  background-color: var(--color-tx);
+  border-radius: 20px 20px 0px 0px;
+  padding: 20px 0px 0px 0px;
+}
+
+.logout {
+  min-width: 5rem !important;
+}
+
+.menu {
+  margin-right: 20px;
+}
+
+.img-home {
+  height: 60px;
+}
+
+footer a {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--color-primary);
+  text-decoration: none;
+}
